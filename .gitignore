@@ -1,1 +1,5 @@
 /bin/
+.proyect
+.gitignore
+/.settings/
+.classpath
